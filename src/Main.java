@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Hello world!");
 
         System.out.println("this is feature demo branch");
+
+        System.out.println("this is feature -demo second commit");
     }
 }
